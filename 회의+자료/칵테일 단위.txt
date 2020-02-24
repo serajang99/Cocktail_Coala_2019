@@ -1,0 +1,76 @@
+베이스/개수
+rum/122
+Bourbon/16
+Vodka/104
+Gin/103
+Ale/17
+tequila/27
+whiskey/20
+~~liquer/53 
+
+<재료 단위>
+splash = dash = 0.03125 oz
+scoop = 1 oz
+can = 7.5 oz
+sprig = inch = gr(gram) = 0.03 oz
+kg = 33 oz
+lb = 15 oz
+juice of ~ = 5 tblsp = 2 oz
+cube = piece = 0.06 oz = sugar
+chunk = 5 oz
+slice = wedge = 0.2 oz
+package = 6 oz
+stick = 0.06 oz
+pinch = 0.01 oz
+whole egg = 1.5 oz
+egg white = 0.9 oz
+egg yellow = 0.6 oz
+cherry = 0.3 oz
+lemon = 4.5 oz
+banana = 4 oz
+papaya = mango = 9 oz
+apple = 7 oz
+apricot = 1 oz
+kiwi = 3 oz
+syrup = 0.0375 oz
+wormwood = vanilla = cloves = 0.03 oz
+
+
+<베이스 단위>
+oz = 약 30ml
+tsp = 0.125 oz
+tblsp = 0.375 oz
+dash = 0.03125 oz
+dr  0.00667 oz
+ml = 0.03 oz
+cl = 0.3 oz
+dl = 3.3 oz
+L = 33 oz
+cup = 8 oz
+pint = 16 oz
+shot = 3.5 oz
+part = 1 oz
+jigger/bar = glass = 0.3 oz  
+bottle = 25 oz
+wine glass = 34 oz
+gal = 128 oz
+qt = 32 oz
+fifth = 25.6 oz
+tenth = 12 oz
+split = 6 oz
+
+proof X
+
+
+<알코올 도수>
+Rum : 최소 40도 / 바카디151 75.5도
+Whiskey : 40~43도
+Vodka : 40도~90도
+Tequila : 40도~60도
+Wine : 15도
+Brandy : 35-60도
+Champagne : 10도
+Cognac : 40도
+Beer : 4~5도
+Gin : 40도
+Liqueur : 
